@@ -31,13 +31,6 @@ button.addEventListener('click',function(){
     document.getElementById('RE').textContent = renai[RandomIndex(renai)];
     document.getElementById('KI').textContent = kinun[RandomIndex(kinun)];
     document.getElementById('GA').textContent = gakumon[RandomIndex(gakumon)]; 
-    /*
-    document.getElementById('GN').textContent = '願望：' + ganbou[RandomIndex(gakumon)];
-    document.getElementById('KN').textContent = '健康：' + kenkou[RandomIndex(kenkou)];
-    document.getElementById('RE').textContent = '恋愛：' + renai[RandomIndex(renai)];
-    document.getElementById('KI').textContent = '金運：' + kinun[RandomIndex(kinun)];
-    document.getElementById('GA').textContent = '学問：' + gakumon[RandomIndex(gakumon)]; 
-    */
 });
 
 
