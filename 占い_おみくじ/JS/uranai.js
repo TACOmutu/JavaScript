@@ -28,9 +28,6 @@ function getZodiacSign(date) {
     return null;
 }
 
-//確認用
-console.log(hosi);
-console.log(seiza);
 
 /*ボタンが押されたときの処理*/
 const button = document.getElementById('hiku');
